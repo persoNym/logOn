@@ -1,0 +1,120 @@
+run:
+Security java program by Victoria
+Last acessed:28 Feb 2013 20:55:39 GMT
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Find User 
+7. Quit 
+Please select option 1,2,3,4,5,6 or 7 from the menu
+1
+Please input your full name:
+test
+Plese input a user id. UID must be one string of characters:
+test
+Input your password : test
+Re-enter your password : test
+Password Input Sucessful
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Find User 
+7. Quit 
+Please select option 1,2,3,4,5,6 or 7 from the menu
+2
+login screen
+ID: 
+test
+Password: 
+Input your password : test
+Re-enter your password : test
+Password Input Sucessful
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Find User 
+7. Quit 
+Please select option 1,2,3,4,5,6 or 7 from the menu
+1
+Please input your full name:
+te
+Plese input a user id. UID must be one string of characters:
+te
+Input your password : te
+Re-enter your password : te
+Password Input Sucessful
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Find User 
+7. Quit 
+Please select option 1,2,3,4,5,6 or 7 from the menu
+2
+login screen
+ID: 
+te
+Password: 
+Input your password : te
+Re-enter your password : te
+Password Input Sucessful
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Find User 
+7. Quit 
+Please select option 1,2,3,4,5,6 or 7 from the menu
+3
+Enter password
+Input your password : te
+Re-enter your password : te
+Password Input Sucessful
+Enter new password
+Input your password : te
+Re-enter your password : te
+Password Input Sucessful
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Find User 
+7. Quit 
+Please select option 1,2,3,4,5,6 or 7 from the menu
+5
+You do not have root authority to access
+LOGON MENU
+-------------------------------------
+1. New User 
+2. Log in 
+3. Change Password 
+4. Log off 
+5. List users 
+6. Find User 
+7. Quit 
+Please select option 1,2,3,4,5,6 or 7 from the menu
+7
+Now Exiting Program
+Information has been saved to users.dat
+BUILD SUCCESSFUL (total time: 1 minute 1 second)
